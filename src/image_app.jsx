@@ -83,7 +83,7 @@ function Image() {
       </div>
       {images.length > 0 && (
         <button id="show-more-btn" onClick={handleLoadMore}>
-          Load more...
+          Load more....
         </button>
       )}
     </div>
